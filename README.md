@@ -1,0 +1,2 @@
+# Cancer-Incidence-Prediction-using-Linear-Regression-
+Project Overview This project aims to develop a linear regression model to predict the Age-Adjusted Incidence Rate of cancer using related variables such as confidence intervals and average annual counts. The insights gained from this model could guide resource allocation, enhance public health initiatives, and fuel further research in oncology
