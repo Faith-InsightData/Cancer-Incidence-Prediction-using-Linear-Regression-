@@ -44,12 +44,16 @@ Data Splitting: Divide the dataset into training and testing sets, typically wit
 Model Initialization: Create and train a linear regression model using the training data.
 # 4. Model Evaluation 📈
 *Performance Metrics: Assess model performance using R² and RMSE metrics to quantify how well the model predicts the target variable.
+
 *Residual Analysis: Conduct residual analysis to validate model assumptions regarding normality and homoscedasticity.
+
 * Multicollinearity Check: Utilize the Variance Inflation Factor (VIF) to check for multicollinearity among predictor variables.
 # 📊 Results
 
 *The model achieved an R² score of r2, indicating the proportion of variance explained by the model.
+
 *The RMSE value was found to be rmse, representing the average magnitude of prediction error.
+
 *Coefficients for each predictor variable were obtained, indicating their relative impact on the Age-Adjusted Incidence Rate.
 
 # 📉 Limitations
@@ -58,8 +62,11 @@ Model Initialization: Create and train a linear regression model using the train
 
 📈 Future Work
 *Explore alternative regression models (e.g., polynomial regression) that may offer improved performance.
+
 *Include additional relevant features to enhance prediction accuracy.
+
 *Apply regularization techniques (like Lasso or Ridge regression) to mitigate overfitting.
+
 *Conduct further analyses to interpret results and identify potential causal relationships.
 
 # 🤝 Contributions
